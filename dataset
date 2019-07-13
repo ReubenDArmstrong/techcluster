@@ -2,16 +2,20 @@
  "name": "flare",
  "children": [
   {
-   "name": "flex",
+   "name": "vis",
    "children": [
-    {"name": "FlareVis", "value": 4116}
+    {
+     "name": "axis",
+     "children": [
+      {"name": "Axes", "value": 1302},
+      {"name": "Axis", "value": 24593},
+      {"name": "AxisGridLine", "value": 652},
+      {"name": "AxisLabel", "value": 636},
+      {"name": "CartesianAxes", "value": 6703}
+     ]
+    },
+    {"name": "Visualization", "value": 16540}
    ]
-  },
-  {
-   "name": "query",
-   "children": [
-    {"name": "AggregateExpression", "value": 1616},
-    {"name": "AggregateExpression", "value": 1616},
-   ]
-  },
+  }
+ ]
 }
