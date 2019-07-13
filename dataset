@@ -22,8 +22,6 @@
     {"name": "Distinct", "value": 933},
     {"name": "Expression", "value": 5130},
     {"name": "ExpressionIterator", "value": 3617},
-    {"name": "Fn", "value": 3240},
-    {"name": "If", "value": 2732},
     {"name": "IsA", "value": 2039},
     {"name": "Literal", "value": 1214},
     {"name": "Match", "value": 3748},
