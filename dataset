@@ -83,44 +83,6 @@
    ]
   },
   {
-     "name": "Amazon",
-     "children": [
-     	 {"name": "Audible", "value": 1302},
-     	 {"name": "Twitch", "value": 24593},
-      	{"name": "Whole Foods", "value": 652},
-     ]
-    },
-    {
-     "name": "Facebook",
-     "children": [
-      {"name": "Whatsapp", "value": 1302},
-      {"name": "Instagram", "value": 24593},
-      {"name": "Oculus", "value": 652},
-      {"name": "Parse", "value": 652},
-      {"name": "Friendfeed", "value": 652},
-     ]
-    },
-     {
-     "name": "Apple",
-     "children": [
-      {"name": "Beats", "value": 1302},
-      {"name": "Dialog", "value": 24593},
-      {"name": "Shazam", "value": 652},
-      {"name": "NeXT", "value": 652},
-      {"name": "Anobit", "value": 652},
-     ]
-    },
-     {
-     "name": "Google",
-     "children": [
-      {"name": "Motorola", "value": 1302},
-      {"name": "HTC", "value": 24593},
-      {"name": "YouTube", "value": 652},
-      {"name": "Waze", "value": 652},
-      {"name": "Deepmind", "value": 652},
-     ]
-    },
-  {
    "name": "display",
    "children": [
     {"name": "DirtySprite", "value": 8833},
