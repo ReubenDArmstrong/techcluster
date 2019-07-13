@@ -11,6 +11,7 @@
    "name": "query",
    "children": [
     {"name": "AggregateExpression", "value": 1616},
+    {"name": "AggregateExpression", "value": 1616},
    ]
   },
  ]
