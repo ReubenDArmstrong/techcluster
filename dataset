@@ -31,17 +31,34 @@
       {"name": "Dialog", "value": 600},
       {"name": "Shazam", "value": 400},
       {"name": "NeXT", "value": 404},
-      {"name": "Anobit", "value": 500}
+      {"name": "Anobit", "value": 500},
+      {"name": "PrimeSense", "value": 360},
+      {"name": "AuthenTec", "value": 356},
+      {"name": "Quattro Wireless", "value": 275},
+      {"name": "C3", "value": 267},
+      {"name": "Lattice Data", "value": 200}
      ]
     },
      {
      "name": "Google",
      "children": [
+     {"name": "Dark Blue", "value": 10},
+     {"name": "Nest Labs", "value": 3200},
+     {"name": "DoubleClick", "value": 3100},
+     {"name": "Looker", "value": 2600},
+     {"name": "Motorola", "value": 12500},
       {"name": "Motorola", "value": 12500},
       {"name": "HTC", "value": 1100},
       {"name": "YouTube", "value": 1650},
       {"name": "Waze", "value": 966},
-      {"name": "Deepmind", "value": 625}
+      {"name": "Deepmind", "value": 625},
+       {"name": "Postini", "value": 625},
+      {"name": "Apigee", "value": 625},
+      {"name": "Dropcam", "value": 500},
+      {"name": "Skybox Imaging", "value": 450},
+      {"name": "Feedburner", "value": 100},
+      {"name": "Slide.com", "value": 228},
+      {"name": "Android", "value": 50}
      ]
     },
     {
@@ -53,7 +70,8 @@
       {"name": "Nokia", "value": 7200},
       {"name": "Hotmail", "value": 500}
      ]
-    }
+    },
+    {"name": "Visualization", "value": 16540}
    ]
   }
  ]
