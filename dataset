@@ -17,61 +17,64 @@
     {
      "name": "Facebook",
      "children": [
-      {"name": "Whatsapp", "value": 19000},
-      {"name": "Instagram", "value": 1000},
-      {"name": "Oculus", "value": 2000},
-      {"name": "Parse", "value": 85},
-      {"name": "Friendfeed", "value": 48}
+    	{"name": "Whatsapp", "value": 19000},
+      	{"name": "Instagram", "value": 1000},
+      	{"name": "Oculus", "value": 2000},
+      	{"name": "Parse", "value": 85},
+      	{"name": "Friendfeed", "value": 48}
      ]
     },
      {
      "name": "Apple",
      "children": [
-      {"name": "Beats", "value": 3000},
-      {"name": "Dialog", "value": 600},
-      {"name": "Shazam", "value": 400},
-      {"name": "NeXT", "value": 404},
-      {"name": "Anobit", "value": 500},
-      {"name": "PrimeSense", "value": 360},
-      {"name": "AuthenTec", "value": 356},
-      {"name": "Quattro Wireless", "value": 275},
-      {"name": "C3", "value": 267},
-      {"name": "Lattice Data", "value": 200}
+      	{"name": "Beats", "value": 3000},
+      	{"name": "Dialog", "value": 600},
+      	{"name": "Shazam", "value": 400},
+      	{"name": "NeXT", "value": 404},
+      	{"name": "Anobit", "value": 500},
+      	{"name": "PrimeSense", "value": 360},
+      	{"name": "AuthenTec", "value": 356},
+      	{"name": "Quattro Wireless", "value": 275},
+      	{"name": "C3", "value": 267},
+      	{"name": "Lattice Data", "value": 200}
      ]
     },
      {
      "name": "Google",
      "children": [
-     {"name": "Dark Blue", "value": 10},
-     {"name": "Nest Labs", "value": 3200},
-     {"name": "DoubleClick", "value": 3100},
-     {"name": "Looker", "value": 2600},
-     {"name": "Motorola", "value": 12500},
-      {"name": "Motorola", "value": 12500},
-      {"name": "HTC", "value": 1100},
-      {"name": "YouTube", "value": 1650},
-      {"name": "Waze", "value": 966},
-      {"name": "Deepmind", "value": 625},
-       {"name": "Postini", "value": 625},
-      {"name": "Apigee", "value": 625},
-      {"name": "Dropcam", "value": 500},
-      {"name": "Skybox Imaging", "value": 450},
-      {"name": "Feedburner", "value": 100},
-      {"name": "Slide.com", "value": 228},
-      {"name": "Android", "value": 50}
+     	{"name": "Dark Blue", "value": 10},
+     	{"name": "Nest Labs", "value": 3200},
+     	{"name": "DoubleClick", "value": 3100},
+     	{"name": "Looker", "value": 2600},
+     	{"name": "Motorola", "value": 12500},
+      	{"name": "HTC", "value": 1100},
+      	{"name": "YouTube", "value": 1650},
+      	{"name": "Waze", "value": 966},
+      	{"name": "Deepmind", "value": 625},
+       	{"name": "Postini", "value": 625},
+      	{"name": "Apigee", "value": 625},
+      	{"name": "Dropcam", "value": 500},
+      	{"name": "Skybox Imaging", "value": 450},
+      	{"name": "Feedburner", "value": 100},
+      	{"name": "Slide.com", "value": 228},
+      	{"name": "Android", "value": 50}
      ]
     },
     {
      "name": "Microsoft",
      "children": [
-      {"name": "LinkedIn", "value": 26200},
-      {"name": "Skype", "value": 8500},
-      {"name": "Github", "value": 7500},
-      {"name": "Nokia", "value": 7200},
-      {"name": "Hotmail", "value": 500}
+      	{"name": "LinkedIn", "value": 26200},
+      	{"name": "Skype", "value": 8500},
+      	{"name": "Github", "value": 7500},
+      	{"name": "Nokia", "value": 7200},
+      	{"name": "Hotmail", "value": 500},
+      	{"name": "aQuantive", "value": 6333},
+      	{"name": "Mojang", "value": 2500},
+      	{"name": "Visio", "value": 1375},
+      	{"name": "Navision", "value": 1330},
+      	{"name": "Yammer", "value": 1200}
      ]
-    },
-    {"name": "Visualization", "value": 16540}
+    }
    ]
   }
  ]
