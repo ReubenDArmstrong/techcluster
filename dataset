@@ -11,7 +11,11 @@
      	{"name": "Twitch", "value": 970},
       	{"name": "Whole Foods", "value": 13700},
       	{"name": "Goodreads", "value": 1000},
-      	{"name": "Bebo", "value": 25}
+      	{"name": "Bebo", "value": 25},
+      	{"name": "Zappos", "value": 1200},
+      	{"name": "Ring", "value": 839},
+      	{"name": "Kiva Systems", "value": 775},
+      	{"name": "Pillpack", "value": 753}
      ]
     },
     {
@@ -20,8 +24,8 @@
     	{"name": "Whatsapp", "value": 19000},
       	{"name": "Instagram", "value": 1000},
       	{"name": "Oculus", "value": 2000},
-      	{"name": "Parse", "value": 85},
-      	{"name": "Friendfeed", "value": 48}
+      	{"name": "LiveRail", "value": 450},
+      	{"name": "Face.com", "value": 100}
      ]
     },
      {
@@ -36,7 +40,8 @@
       	{"name": "AuthenTec", "value": 356},
       	{"name": "Quattro Wireless", "value": 275},
       	{"name": "C3", "value": 267},
-      	{"name": "Lattice Data", "value": 200}
+      	{"name": "Lattice Data", "value": 200},
+      	{"name": "Didi Chuxing", "value": 1000}
      ]
     },
      {
