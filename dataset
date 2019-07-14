@@ -5,97 +5,53 @@
    "name": "vis",
    "children": [
     {
-     "name": "Amazon",
+     "name": "Liverpool",
      "children": [
-     	{"name": "Audible", "value": 300},
-     	{"name": "Twitch", "value": 970},
-      	{"name": "Whole Foods", "value": 13700},
-      	{"name": "Goodreads", "value": 1000},
-      	{"name": "Bebo", "value": 25},
-      	{"name": "Zappos", "value": 1200},
-      	{"name": "Ring", "value": 839},
-      	{"name": "Kiva Systems", "value": 775},
-      	{"name": "Pillpack", "value": 753},
-      	{"name": "Alexa", "value": 250}
+     	{"name": "Salah", "value": 135},
+     	{"name": "VVD", "value": 81},
+      	{"name": "Alisson", "value": 72},
+      	{"name": "Mane", "value": 108},
+      	{"name": "Firmino", "value": 72}
      ]
     },
     {
-     "name": "Facebook",
+     "name": "Man City",
      "children": [
-    	{"name": "Whatsapp", "value": 19000},
-      	{"name": "Instagram", "value": 1000},
-      	{"name": "Oculus", "value": 2000},
-      	{"name": "LiveRail", "value": 450},
-      	{"name": "Face.com", "value": 100},
-      	{"name": "Redkix", "value": 100},
-      	{"name": "Atlas", "value": 95},
-      	{"name": "Parse", "value": 85},
-      	{"name": "Snaptu", "value": 70},
-      	{"name": "Pebbles", "value": 60},
-      	{"name": "Friendfeed", "value": 48},
-      	{"name": "Friendster", "value": 40},
-      	{"name": "ConnectU", "value": 31},
-      	{"name": "Bloomsbury AI", "value": 30},
-      	{"name": "Ascenta", "value": 20}
-      	
+    	{"name": "De Bruyne", "value": 117},
+      	{"name": "Laporte", "value": 68},
+      	{"name": "Aguero", "value": 59},
+      	{"name": "Ederson", "value": 63},
+      	{"name": "Mahrez", "value": 54}
      ]
     },
      {
-     "name": "Apple",
+     "name": "Chelsea",
      "children": [
-      	{"name": "Beats", "value": 3000},
-      	{"name": "Dialog", "value": 600},
-      	{"name": "Shazam", "value": 400},
-      	{"name": "NeXT", "value": 404},
-      	{"name": "Anobit", "value": 500},
-      	{"name": "PrimeSense", "value": 360},
-      	{"name": "AuthenTec", "value": 356},
-      	{"name": "Quattro Wireless", "value": 275},
-      	{"name": "C3", "value": 267},
-      	{"name": "Lattice Data", "value": 200},
-      	{"name": "Didi Chuxing", "value": 1000}
+      	{"name": "David Luiz", "value": 18},
+      	{"name": "Willian", "value": 36},
+      	{"name": "Kepa", "value": 54},
+      	{"name": "Pulisic", "value": 54},
+      	{"name": "Giroud", "value": 14}
      ]
     },
      {
-     "name": "Google",
+     "name": "Man United",
      "children": [
-     	{"name": "Dark Blue", "value": 10},
-     	{"name": "Nest Labs", "value": 3200},
-     	{"name": "DoubleClick", "value": 3100},
-     	{"name": "Looker", "value": 2600},
-     	{"name": "Motorola", "value": 12500},
-      	{"name": "HTC", "value": 1100},
-      	{"name": "YouTube", "value": 1650},
-      	{"name": "Waze", "value": 966},
-      	{"name": "Deepmind", "value": 625},
-       	{"name": "Postini", "value": 625},
-      	{"name": "Apigee", "value": 625},
-      	{"name": "Dropcam", "value": 500},
-      	{"name": "Skybox Imaging", "value": 450},
-      	{"name": "Feedburner", "value": 100},
-      	{"name": "Slide.com", "value": 228},
-      	{"name": "Android", "value": 50}
+     	{"name": "Pogba", "value": 90},
+     	{"name": "Lukaku", "value": 68},
+     	{"name": "Smalling", "value": 18},
+     	{"name": "De Gea", "value": 59},
+     	{"name": "Mata", "value": 18}
      ]
     },
     {
-     "name": "Microsoft",
+     "name": "Arsenal",
      "children": [
-      	{"name": "LinkedIn", "value": 26200},
-      	{"name": "Skype", "value": 8500},
-      	{"name": "Github", "value": 7500},
-      	{"name": "Nokia", "value": 7200},
-      	{"name": "Hotmail", "value": 500},
-      	{"name": "aQuantive", "value": 6333},
-      	{"name": "Mojang", "value": 2500},
-      	{"name": "Visio", "value": 1375},
-      	{"name": "Navision", "value": 1330},
-      	{"name": "Yammer", "value": 1200},
-      	{"name": "Fast Search", "value": 1191},
-      	{"name": "Titus", "value": 945},
-      	{"name": "Great Plains", "value": 940},
-      	{"name": "Danger", "value": 500},
-      	{"name": "Greenfield", "value": 486},
-      	{"name": "WebTV", "value": 425}
+      	{"name": "Ozil", "value": 23},
+      	{"name": "Aubameyang", "value": 63},
+      	{"name": "Lacazette", "value": 63},
+      	{"name": "Leno", "value": 27},
+      	{"name": "Torreira", "value": 50}
      ]
     }
    ]
