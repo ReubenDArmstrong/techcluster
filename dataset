@@ -15,7 +15,8 @@
       	{"name": "Zappos", "value": 1200},
       	{"name": "Ring", "value": 839},
       	{"name": "Kiva Systems", "value": 775},
-      	{"name": "Pillpack", "value": 753}
+      	{"name": "Pillpack", "value": 753},
+      	{"name": "Alexa", "value": 250}
      ]
     },
     {
@@ -25,7 +26,18 @@
       	{"name": "Instagram", "value": 1000},
       	{"name": "Oculus", "value": 2000},
       	{"name": "LiveRail", "value": 450},
-      	{"name": "Face.com", "value": 100}
+      	{"name": "Face.com", "value": 100},
+      	{"name": "Redkix", "value": 100},
+      	{"name": "Atlas", "value": 95},
+      	{"name": "Parse", "value": 85},
+      	{"name": "Snaptu", "value": 70},
+      	{"name": "Pebbles", "value": 60},
+      	{"name": "Friendfeed", "value": 48},
+      	{"name": "Friendster", "value": 40},
+      	{"name": "ConnectU", "value": 31},
+      	{"name": "Bloomsbury AI", "value": 30},
+      	{"name": "Ascenta", "value": 20}
+      	
      ]
     },
      {
@@ -77,7 +89,13 @@
       	{"name": "Mojang", "value": 2500},
       	{"name": "Visio", "value": 1375},
       	{"name": "Navision", "value": 1330},
-      	{"name": "Yammer", "value": 1200}
+      	{"name": "Yammer", "value": 1200},
+      	{"name": "Fast Search", "value": 1191},
+      	{"name": "Titus", "value": 945},
+      	{"name": "Great Plains", "value": 940},
+      	{"name": "Danger", "value": 500},
+      	{"name": "Greenfield", "value": 486},
+      	{"name": "WebTV", "value": 425}
      ]
     }
    ]
